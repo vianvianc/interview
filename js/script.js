@@ -2,7 +2,7 @@
 var themeSwitcher = document.querySelector("#theme-switcher");
 var container = document.querySelector(".container");
 
-// Set default mode to dark or
+// Set default mode to dark or light
 var mode = "dark";
 
 // Listen for a click event on toggle switch
